@@ -3,8 +3,14 @@ background-color: aqua;
 padding: 10px;
 margin-bottom: 10px;
 }
+h3{
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(165, 132, 42);
+}
 img{
 padding: 10px;
 background-color: blueviolet;
+align-items: center;
 width: 200px;
 }
