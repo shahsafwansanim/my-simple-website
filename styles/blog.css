@@ -1,10 +1,10 @@
 div{
 background-color: aqua;
-padding: 100px;
+padding: 10px;
 margin-bottom: 10px;
 }
 img{
 padding: 10px;
 background-color: blueviolet;
-size-adjust: auto;
+width: 200px;
 }
